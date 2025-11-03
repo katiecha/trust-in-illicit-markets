@@ -15,6 +15,7 @@ head(darknet_text)
 write.csv(darknet_text, "darknet_sales_reviews.csv", row.names = FALSE)
 
 total_entries <- nrow(darknet_text)
+total_entries
 
 # categories of Seller, Buyer, meta_category
 unique(darknet_text$Seller)
