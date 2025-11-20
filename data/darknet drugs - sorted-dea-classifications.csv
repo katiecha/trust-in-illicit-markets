@@ -1,0 +1,56 @@
+group,meta_category,schedule,main_active_chemical,other_names,2nd_source,notes
+1,Ecstasy,1,"3,4-methylenedioxymethamphetamine (MDMA)","3,4-Methylenedioxymethamphetamine: MDMA, Ecstasy, XTC",https://pubchem.ncbi.nlm.nih.gov/compound/3_4-Methylenedioxymethamphetamine,Different versions
+1,MDMA,1,"3,4-methylenedioxymethamphetamine (MDMA)","3,4-Methylenedioxymethamphetamine: MDMA, Ecstasy, XTC",https://pubchem.ncbi.nlm.nih.gov/compound/3_4-Methylenedioxymethamphetamine,Different versions
+2,DMT,1,,Dimethyltryptamine: DMT,,Different versions
+3,GHB,1,,"Gamma Hydroxybutyric Acid: GHB, gamma hydroxybutyrate, sodium oxybate",,
+4,Heroin,1,,"Heroin: Diacetylmorphine, diamorphine",,Different versions
+5,LSD,1,,"Lysergic acid diethylamide: LSD, lysergide",,
+6,Mephedrone,1,,"Mephedrone (4-Methyl-N-methylcathinone): 4-MMC
+(Positional Isomers: Buphedrone, Ethcathinone, N,N-
+Dimethyl-cathinone)",,
+7,Mushrooms,1,,"Psilocybin: Constituent of ""Magic mushrooms""",,
+8,2C,1,,,,Different versions
+9,Quaaludes,1,,,https://www.drugs.com/illicit/quaaludes.html,"Quaaludes was a brand name for the sedative-hypnotic drug methaqualone, which was prescribed for insomnia and anxiety in the mid-20th century"
+10,Edibles,1,,Cannabis,,
+11,Hash,1,,Cannabis,,A concentrated product made from compressing the cannabis plant's resin
+12,Weed,1,,Cannabis,,
+13,Adderall,2,"Amphetamine, Dextroamphetamine sulfate","Amphetamine: Dexedrine, Adderall, Obetrol",https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine,
+14,Dexedrine,2,Dextroamphetamine sulfate,"Amphetamine: Dexedrine, Adderall, Obetrol",https://pubchem.ncbi.nlm.nih.gov/compound/Dextroamphetamine,Different versions
+15,Fentanyl,2,,"Fentanyl: Duragesic, Oralet, Actiq, Sublimaze, Innovar",,Different versions
+16,Hydrocodone,2,,Hydrocodone: dihydrocodeinone,,Different versions
+17,Vyvanse,2,,Lisdexamfetamine: Vyvanse,,
+18,Demerol,2,,"Meperidine: Demerol, Mepergan, pethidine",,
+19,Methadone,2,,"Methadone: Dolophine, Methadose, Amidone",,Different versions
+20,Meth,2,Methamphetamine,"Methamphetamine: Desoxyn, D-desoxyephedrine, ICE, Crank, Speed",https://pubchem.ncbi.nlm.nih.gov/compound/Methamphetamine,Different versions
+21,Speed,2,Amphetamine,"Methamphetamine: Desoxyn, D-desoxyephedrine, ICE, Crank, Speed",https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine,Different versions
+22,Cocaine,2,,"Methyl benzoylecgonine, Crack",,Different versions
+23,Ritalin,2,,"Methylphenidate: Concerta, Ritalin, Methylin ",,
+24,Codeine,2,,"Morphine methyl ester, methyl morphine",,
+25,Oxycodon,2,Oxycodone,"Oxycodone: OxyContin, Percocet, Endocet, Roxicodone, Roxicet",https://pubchem.ncbi.nlm.nih.gov/compound/Oxycodone,
+25,Oxycodone,2,Oxycodone,"Oxycodone: OxyContin, Percocet, Endocet, Roxicodone, Roxicet",https://pubchem.ncbi.nlm.nih.gov/compound/Oxycodone,
+25,Percocet,2,Oxycodone,"Oxycodone: OxyContin, Percocet, Endocet, Roxicodone, Roxicet",https://pubchem.ncbi.nlm.nih.gov/compound/Oxycodone,
+26,Oxymorphone,2,,Oxymorphone: Numorphan,,Different versions
+27,Pentobarbital,2,,Pentobarbital: Nembutal,,Different versions
+28,Opium,2,,,,Different versions; grouped with heroin in his past research
+29,Tapentadol,2,,,,
+30,Steroid,3,,"Anabolic steroids: Any substance meeting the definition of anabolic
+steroid as set forth in 21 CFR 1300.01",,
+31,Ketamine,3,,"Ketamine: Ketaset, Ketalar, Special K, K",,
+32,Xanax,4,,Alprazolam: Xanax,,
+33,Klonopin,4,,"Clonazepam: Klonopin, Clonopin",,
+34,Valium,4,,"Diazepam: Valium, Diastat ",,
+35,Loreazepam,4,,Loreazepam: Ativan,https://www.dea.gov/drug-information/drug-scheduling,"A drug of the benzodiazepine group, used especially to treat anxiety; "
+36,Modafinil,4,,Modafinil: Provigil,,
+37,Tramadol,4,,"Tramadol (2-[(dimethylamino)methyl]-1-(3-
+methoxyphenyl)cyclohexanol): Tramadol",,
+38,Ambien,4,,"Zolpidem: Ambien, Ivadal, Stilnoct, Stilnox",,
+39,Zopiclone,4,,,,
+40,4-ACO-DMT,6,,,,"4-AcO-DMT (4-acetoxy-N,N-dimethyltryptamine), also known as psilacetin, is a synthetic psychedelic drug in the tryptamine family that acts as a prodrug for the compound psilocin. It is chemically related to psilocybin and produces effects similar to magic mushrooms, but is sometimes reported to cause fewer gastrointestinal side effects"
+41,Analgesics,6,,,,Analgesics are medications that relieve pain. They work by blocking or reducing pain signals in the brain and spinal cord.
+42,Bulk,6,,,,
+43,Concentrates,6,,,,
+44,Pills,6,,,,
+45,RC,6,,,,Research chemicals
+46,Relaxants,6,,,,
+47,Seeds,6,,,,
+48,Viagra,6,,,,
